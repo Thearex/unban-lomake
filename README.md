@@ -4,7 +4,7 @@
 Lomake Minecraft-palvelimelle on saanut uuden ja mielenkiintoisen twistin. Sivuston teemana on 2000-luku, ja lomakkeen lähetysprosessi kestää minuutin. Lähetyksen aikana näkyy latauspalkki, jonka aikana esitetään humoristisia ja "roastaavia" tekstejä, joissa esimerkiksi ilmoitetaan pelaajan saaneen bannit. 30 sekunnin kohdalla ilmestyy virheilmoitus, mutta lopulta, kun lomake menee läpi, se lähetetään onnistuneesti.
 Lähettää viestin Discordiin webhookilla.
 
-Kun lomake on lähetetty niin kuuluu [pimpeli pom ääni.](https://www.youtube.com/watch?v=6Oygpi9Y2a8)
+Kun lomake on lähetetty niin kuuluu [pimpeli pom ääni tästä videosta.](https://www.youtube.com/watch?v=6Oygpi9Y2a8)
 
 
 ## Demo
